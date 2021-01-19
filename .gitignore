@@ -1,10 +1,2 @@
-dev
 node_modules
-.babelrc
-.browserslistrc
-.eslintrc.json
-debug.log
-gulpfile.babel.js
 instalaciones.txt
-package.json
-package-lock.json
